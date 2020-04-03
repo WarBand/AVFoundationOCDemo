@@ -2,7 +2,7 @@
 //  CaptureController.m
 //  AVFoundationOCDemo
 //
-//  Created by SouFun on 17/2/20.
+//  Created by Bytebaker on 17/2/20.
 //  Copyright © 2017年 bytebaker. All rights reserved.
 //
 

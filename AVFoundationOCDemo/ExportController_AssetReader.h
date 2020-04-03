@@ -2,7 +2,7 @@
 //  ExportController-AssetReader.h
 //  AVFoundationOCDemo
 //
-//  Created by SouFun on 17/3/27.
+//  Created by Bytebaker on 17/3/27.
 //  Copyright © 2017年 bytebaker. All rights reserved.
 //
 
